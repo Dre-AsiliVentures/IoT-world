@@ -1,2 +1,2 @@
 # IoT world
- All development in the Internet of Things Technology
+ All development in the Internet of Things Technology.
